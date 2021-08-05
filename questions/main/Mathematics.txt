@@ -1,0 +1,70 @@
+1. Question: ‌If ‌you ‌have ‌ten ‌mangos ‌and ‌your ‌friend's ‌mother ‌buys ‌you ‌twelve ‌more, ‌how ‌many ‌mangos ‌will ‌you ‌have ‌in ‌total? ‌
+‌Answer: 22.
+‌2. Question: ‌Which ‌geometrical ‌shape ‌has ‌no ‌vertices? ‌
+Answer: ‌A ‌sphere.
+‌3. Question: ‌How ‌many ‌wheels ‌will 99 ‌bicycles ‌and one ‌tricycle ‌have ‌in total? ‌
+Answer: ‌201 ‌
+‌4. Question: ‌What ‌is ‌(10 ‌+ ‌10‌) ‌/ ‌20 ‌?
+Answer: ‌1
+‌5. Question: ‌How many ‌days ‌are ‌there ‌in ‌a ‌leap ‌year? ‌
+Answer: ‌366 ‌days‌.
+‌6. Question: ‌If I had 9 dozen eggs, how many eggs would I have? ‌
+Answer: ‌108
+‌7. Question: ‌What ‌is ‌a ‌quarter? ‌
+Answer: ‌One ‌out ‌of ‌four ‌equal ‌parts‌.
+8. Question: ‌How ‌many ‌minutes ‌are in seven half ‌‌hours? ‌
+Answer: ‌210 ‌minutes‌.
+9. Question: ‌What ‌is ‌the ‌Roman Numeral ‌symbol ‌for ‌100? ‌
+Answer: ‌C‌.
+10. Question: ‌What ‌is (‌510 ‌+ ‌68) / 2 ‌? ‌
+Answer: ‌289 ‌
+11. Question: ‌If ‌you ‌are ‌seven years ‌old ‌and‌ ‌your ‌brother ‌is ‌‌three years ‌older ‌than ‌you, ‌what ‌is ‌his ‌age? ‌
+Answer: ‌10 ‌years ‌old‌.
+12. Question: ‌If ‌a ‌train ‌is ‌supposed ‌to ‌reach ‌the ‌station ‌at ‌4:10 ‌a.m‌.  but ‌it ‌is ‌35 ‌minutes late, ‌at ‌what ‌time ‌will ‌the ‌train ‌reach ‌the ‌station? ‌
+Answer: ‌4:45 ‌a.m. ‌
+13. Question: ‌What ‌are ‌the ‌full ‌forms ‌of ‌a.m. ‌and ‌p.m., ‌as ‌used ‌in ‌representing ‌time? ‌
+Answer: Ante ‌meridiem and post ‌meridiem.
+14. Question: ‌How ‌many ‌days ‌are ‌there ‌in ‌July? ‌
+Answer: ‌31 ‌days.
+15. Question: ‌What ‌number does ‌the Roman ‌Numeral ‌representation ‌XXXVIII ‌represent? ‌
+Answer: ‌38 ‌
+16. Question: ‌Which ‌is ‌larger: ‌10000 grams ‌or ‌one kilogram? ‌
+Answer: ‌10000 grams.
+17. Question: ‌How many sides ‌does ‌a ‌trapezium ‌have? ‌
+Answer: ‌Four ‌sides.
+18. Question: ‌How ‌much ‌does ‌one ‌gallon ‌of ‌water ‌weigh ‌in ‌pounds? ‌
+Answer: ‌8.33 lb.
+19. Question: ‌What ‌is ‌the ‌number ‌on ‌the ‌top ‌of ‌the ‌vinculum ‌in ‌a ‌fraction ‌called? ‌
+Answer: ‌The ‌numerator.
+20. Question: ‌How ‌many ‌days ‌are ‌in ‌two ‌leap ‌years? ‌
+Answer: ‌732
+21.Question: ‌What ‌is ‌88 ‌x ‌10 ‌x ‌0‌ ‌? ‌
+Answer: ‌0‌
+22.Question: ‌What does VBODMAS stand for? ‌
+Answer: ‌Vinculum ‌Bracket ‌Of ‌Division ‌Multiplication ‌Addition ‌Subtraction‌.
+23. Question: ‌What ‌is ‌the ‌value ‌of ‌Pi ‌(up to ‌three ‌decimals)? ‌
+Answer: ‌3.142
+24. Question: ‌What ‌is ‌the ‌smallest ‌prime ‌number? ‌
+Answer: ‌2 ‌(Interestingly, 1 is not classified as a prime number although it is divisible by 1 and itself (as per the definition of a prime number). 1 and itself, in this case, are not two distinct factors so 1 is not classified as a prime number.)
+25. Question: ‌What ‌is ‌the ‌smallest ‌perfect ‌number?‌
+Answer: ‌6 ‌
+26. Question: ‌How ‌many ‌zeros ‌are ‌present ‌in ‌one ‌googol? ‌
+Answer: ‌100‌
+27.Question: ‌Which ‌number ‌has ‌no ‌representation ‌in ‌Roman ‌Numerals? ‌
+Answer‌: Zero‌.
+28.Question: ‌What ‌is ‌(445 ‌- ‌80) ‌/ ‌1 ‌? ‌
+Answer: ‌365 ‌
+29.Question: ‌Which ‌of ‌the ‌following ‌is ‌a ‌perfect ‌square number: ‌169, ‌23 or ‌78 ?
+‌Answer: ‌169 ‌
+30. Question: ‌Who ‌is ‌the ‌mathematician ‌who ‌is considered the father of trigonometry? ‌
+Answer: ‌Hipparchus of Nicaea.
+31. Question: ‌What ‌is ‌the ‌only ‌temperature ‌which ‌is ‌the ‌same ‌in ‌Fahrenheit ‌as ‌well ‌as ‌Celcius? ‌
+Answer: ‌- 40 ‌degrees.
+32. Question: ‌How ‌many ‌sides ‌does a ‌heptagon ‌have? ‌
+Answer: ‌Seven.
+33. Question: ‌111 ‌x 11 ‌= ‌? ‌
+Answer: ‌1221 ‌
+34. Question: ‌What ‌is ‌a ‌triangle ‌with ‌equal ‌sides ‌called? ‌
+Answer: ‌Equilateral ‌triangle.
+35. Question: ‌What ‌is ‌the ‌square ‌of ‌25? ‌
+Answer: ‌625
